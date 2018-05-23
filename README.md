@@ -2,7 +2,13 @@
 
 ### Indice
 
+* [Articoli](#articoli)
 * [FAQ](#faq)
+
+
+### Articoli
+
+* [Condominio e GDPR, anche gli amministratori devono adeguarsi](http://www.altalex.com/documents/news/2018/05/15/condominio-e-gdpr-anche-gli-amministratori-devono-adeguarsi)
 
 
 ### FAQ
