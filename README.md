@@ -34,7 +34,7 @@
 ### Guide e Manuali
 
 * [Garante della Privacy - Guida all'applicazione del Regolamento europeo in materia di protezione dei dati personali](http://www.garanteprivacy.it/web/guest/regolamentoue/guida-all-applicazione-del-regolamento-europeo-in-materia-di-protezione-dei-dati-personali)
-* [European Commission - Data protection](https://ec.europa.eu/info/law/law-topic/data-protection_en
+* [European Commission - Data protection](https://ec.europa.eu/info/law/law-topic/data-protection_en)
 * [Linee Guida in vista della piena applicazione prevista per il 25 Maggio 2018](https://www.slideshare.net/tarallop/gdpr-79114581) (Presentazione Slideshare)
 * [GDPR: cos'è e cosa fare in questa guida!](http://blog.tagliaerbe.com/2018/05/gdpr.html)
 * [Guida GDPR a cura dello studio legale internazionale Bird&Bird (in inglese)](https://www.twobirds.com/~/media/pdfs/gdpr-pdfs/bird--bird--guide-to-the-general-data-protection-regulation.pdf?la=en) (PDF)
