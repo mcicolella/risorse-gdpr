@@ -30,6 +30,7 @@
 ### Esempi di informativa GDPR
 
 * [Aruba SpA](https://www.aruba.it/informativa_arubaspa.pdf) (12 pagine in PDF molto dettagliato)
+* [Libero.it](https://i.plug.it/mail/selfcare/gestione-dati-utente/libero/pdf/InformativaMailLibero.pdf) (PDF)
 * [Udemy](https://www.udemy.com/terms/privacy/) (HTML)
 
 
