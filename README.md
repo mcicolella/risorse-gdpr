@@ -4,7 +4,7 @@
 
 * [Articoli](#articoli)
 * [Checklist](#checklist)
-* [Esempi di informativa GDPR](#esempi-informativa-gdpr)
+* [Esempi di informativa GDPR](#esempi-di-informativa-gdpr)
 * [FAQ](#faq)
 * [Guide e Manuali](#guide-manuali)
 * [Tool](#tool)
