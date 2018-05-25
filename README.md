@@ -4,6 +4,7 @@
 
 * [Articoli](#articoli)
 * [Checklist](#checklist)
+* [Esempi di informativa GDPR](#esempi-informativa-gdpr)
 * [FAQ](#faq)
 * [Guide e Manuali](#guide-manuali)
 * [Tool](#tool)
@@ -24,6 +25,11 @@
 ### Checklist
 
 * [The GDPR Compliance Checklist](https://gdprchecklist.io/)
+
+
+### Esempi di informativa GDPR
+
+* [Aruba SpA](https://www.aruba.it/informativa_arubaspa.pdf)
 
 
 ### FAQ
