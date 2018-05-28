@@ -16,6 +16,7 @@
 
 * [Condominio e GDPR, anche gli amministratori devono adeguarsi](http://www.altalex.com/documents/news/2018/05/15/condominio-e-gdpr-anche-gli-amministratori-devono-adeguarsi)
 * [GDPR?: grazie, ma non mi serve!](https://www.opencloudict.it/gdpr-a-me-non-serve/)
+* [GDPR - Questo sconosciuto](https://italiancoders.it/gdpr-questo-sconosciuto/)
 * [GDPR e PMI. Scopri se riguarda anche te ](http://www.margas.it/gdpr-e-pmi-scopri-se-riguarda-anche-te/)
 * [Il consenso raccolto prima della data di efficacia del GDPR sarà ancora valido?](http://europrivacy.info/it/2017/06/19/will-the-consent-collected-before-the-effective-date-of-gdpr-still-be-valid/)
 * [I servizi cloud alla prova del GDPR](https://www.ictsecuritymagazine.com/articoli/i-servizi-cloud-alla-prova-del-gdpr/)
