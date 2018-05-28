@@ -18,6 +18,7 @@
 * [GDPR?: grazie, ma non mi serve!](https://www.opencloudict.it/gdpr-a-me-non-serve/)
 * [GDPR e PMI. Scopri se riguarda anche te ](http://www.margas.it/gdpr-e-pmi-scopri-se-riguarda-anche-te/)
 * [Il consenso raccolto prima della data di efficacia del GDPR sarà ancora valido?](http://europrivacy.info/it/2017/06/19/will-the-consent-collected-before-the-effective-date-of-gdpr-still-be-valid/)
+* [I servizi cloud alla prova del GDPR](https://www.ictsecuritymagazine.com/articoli/i-servizi-cloud-alla-prova-del-gdpr/)
 * [La febbre del GDPR](http://www.lodovicomabini.it/blog/37-la-febbre-del-gdpr)
 * [Riassunto rapido (FOR DUMMIES) della nuova normativa privacy GDPR che entra in vigore il 25 maggio 2018](https://www.preventivoecommerce.com/guide-ecommerce/116-riassunto-rapido-for-dummies-della-nuova-normativa-privacy-gdpr-che-entra-in-vigore-il-25-maggio-2018.html)
 
