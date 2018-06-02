@@ -38,6 +38,7 @@
 * [Libero.it](https://i.plug.it/mail/selfcare/gestione-dati-utente/libero/pdf/InformativaMailLibero.pdf) (PDF)
 * [Mondadori.it](https://digital.mondadori.it/privacy/informativasiti/mondadoriretail.html) (HTML)
 * [Progetto Terremoto Centro Italia](https://github.com/emergenzeHack/terremotocentro/blob/master/legal.md)
+* [SiteGround](https://it.siteground.com/blog/siteground-ora-conforme-al-gdpr/)
 * [Udemy](https://www.udemy.com/terms/privacy/) (HTML)
 
 
