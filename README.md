@@ -7,6 +7,7 @@
 * [Esempi di informativa GDPR](#esempi-di-informativa-gdpr)
 * [FAQ](#faq)
 * [Guide e Manuali](#guide-manuali)
+* [Presentazioni](#presentazioni)
 * [Tool](#tool)
 * [Video e Webinar](#video-webinar)
 * [Whitepaper](#whitepaper)
@@ -56,6 +57,11 @@
 * [Manuale sulla Sicurezza nel trattamento dei dati personali](https://www.amazon.it/clouddrive/share/ikQmbrXD7J6X2WlRXfqdXa3Cs10Mo2EqQlom5oWeUre/q8xlQ_y3Qe2rYrdZIAyGbw?_encoding=UTF8&*Version*=1&*entries*=0&mgh=1) (PDF download)
 * [Preparing for the General Data Protection Regulation (GDPR) 12 steps to take now ](https://ico.org.uk/media/for-organisations/documents/1624219/preparing-for-the-gdpr-12-steps.pdf) (PDF)
 * [Your guide to GDPR](https://spectrum.ieee.org/telecom/internet/your-guide-to-the-gdpr.amp.html?__twitter_impression=true)
+
+
+### Presentazioni
+
+* [L'avvocato al tempo del GDPR](https://www.slideshare.net/fpmicozzi/gdpr-congresso-giuridico-trento)
 
 
 ### Tool
