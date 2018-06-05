@@ -20,6 +20,7 @@
 * [GDPR, e se la Blockchain non fosse conforme al regolamento?](https://www.key4biz.it/gdpr-e-se-la-blockchain-non-fosse-conforme-al-regolamento/222368/)
 * [GDPR - Questo sconosciuto](https://italiancoders.it/gdpr-questo-sconosciuto/)
 * [GDPR e PMI. Scopri se riguarda anche te ](http://www.margas.it/gdpr-e-pmi-scopri-se-riguarda-anche-te/)
+* [I peggiori esempi di adeguamento alla GDPR da parte delle aziende](http://www.rivistastudio.com/cose-che-succedono/gdpr-esempi/)
 * [Il consenso raccolto prima della data di efficacia del GDPR sarà ancora valido?](http://europrivacy.info/it/2017/06/19/will-the-consent-collected-before-the-effective-date-of-gdpr-still-be-valid/)
 * [I servizi cloud alla prova del GDPR](https://www.ictsecuritymagazine.com/articoli/i-servizi-cloud-alla-prova-del-gdpr/)
 * [La febbre del GDPR](http://www.lodovicomabini.it/blog/37-la-febbre-del-gdpr)
