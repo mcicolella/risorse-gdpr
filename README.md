@@ -3,7 +3,7 @@
 ### Indice
 
 * [Articoli](#articoli)
-* [Checklist](#checklist)
+* [Checklist & template](#checklist-&-template)
 * [Esempi di informativa GDPR](#esempi-di-informativa-gdpr)
 * [FAQ](#faq)
 * [Guide e Manuali](#guide-manuali)
@@ -26,8 +26,9 @@
 * [Riassunto rapido (FOR DUMMIES) della nuova normativa privacy GDPR che entra in vigore il 25 maggio 2018](https://www.preventivoecommerce.com/guide-ecommerce/116-riassunto-rapido-for-dummies-della-nuova-normativa-privacy-gdpr-che-entra-in-vigore-il-25-maggio-2018.html)
 
 
-### Checklist
+### Checklist & Template
 
+* [Il registro dei trattamenti dell'avvocato](http://maurizioreale.it/il-registro-dei-trattamenti-dellavvocato) (PDF)
 * [The GDPR Compliance Checklist](https://gdprchecklist.io/)
 
 
