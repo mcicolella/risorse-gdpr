@@ -22,6 +22,7 @@
 * [GDPR e PMI. Scopri se riguarda anche te ](http://www.margas.it/gdpr-e-pmi-scopri-se-riguarda-anche-te/)
 * [I peggiori esempi di adeguamento alla GDPR da parte delle aziende](http://www.rivistastudio.com/cose-che-succedono/gdpr-esempi/)
 * [Il consenso raccolto prima della data di efficacia del GDPR sarà ancora valido?](http://europrivacy.info/it/2017/06/19/will-the-consent-collected-before-the-effective-date-of-gdpr-still-be-valid/)
+* [Informativa sulla privacy dopo il Gdpr: cosa deve contenere?](https://www.laleggepertutti.it/209609_informativa-sulla-privacy-dopo-il-gdpr-cosa-deve-contenere)
 * [I servizi cloud alla prova del GDPR](https://www.ictsecuritymagazine.com/articoli/i-servizi-cloud-alla-prova-del-gdpr/)
 * [La febbre del GDPR](http://www.lodovicomabini.it/blog/37-la-febbre-del-gdpr)
 * [Riassunto rapido (FOR DUMMIES) della nuova normativa privacy GDPR che entra in vigore il 25 maggio 2018](https://www.preventivoecommerce.com/guide-ecommerce/116-riassunto-rapido-for-dummies-della-nuova-normativa-privacy-gdpr-che-entra-in-vigore-il-25-maggio-2018.html)
