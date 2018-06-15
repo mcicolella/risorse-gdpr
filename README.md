@@ -74,6 +74,7 @@
 * [GDPR: gli strumenti tecnici per allinearsi](https://www.bitmat.it/blog/news/75088/gdpr-gli-strumenti-tecnici-allinearsi)
 * [iubenda](https://www.iubenda.com/it/)
 * [OneTrust](https://www.onetrust.com/)
+* [Regolamento UE. Un software per la valutazione di impatto - DISPONIBILE L'AGGIORNAMENTO DEL SOFTWARE](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/8581268)
 
 
 ### Video e Webinar
