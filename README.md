@@ -8,7 +8,7 @@
 * [FAQ](#faq)
 * [Guide e Manuali](#guide-manuali)
 * [Presentazioni](#presentazioni)
-* [Tips & Tricks](#tips-tricks)
+* [Tips & Tricks](#tips-e-tricks)
 * [Tool](#tool)
 * [Video e Webinar](#video-webinar)
 * [Whitepaper](#whitepaper)
