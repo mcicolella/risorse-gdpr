@@ -8,6 +8,7 @@
 * [FAQ](#faq)
 * [Guide e Manuali](#guide-manuali)
 * [Presentazioni](#presentazioni)
+* [Tips & Tricks](#tips-tricks)
 * [Tool](#tool)
 * [Video e Webinar](#video-webinar)
 * [Whitepaper](#whitepaper)
@@ -67,6 +68,11 @@
 ### Presentazioni
 
 * [L'avvocato al tempo del GDPR](https://www.slideshare.net/fpmicozzi/gdpr-congresso-giuridico-trento)
+
+
+### Tips e Tricks
+
+* [Come creare una form contatti su un sito WordPress in linea con il GDPR (guida)](https://www.nextre.it/creare-form-contatti-gdpr-in-wordpress/)
 
 
 ### Tool
