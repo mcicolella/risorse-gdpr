@@ -73,6 +73,7 @@
 ### Tips e Tricks
 
 * [Come creare una form contatti su un sito WordPress in linea con il GDPR (guida)](https://www.nextre.it/creare-form-contatti-gdpr-in-wordpress/)
+* [GDPR compliant forget-me app with Spring Integration (Part 1): Requirements](https://springuni.com/gdpr-forget-me-app-with-spring-integration-part-1/)
 
 
 ### Tool
