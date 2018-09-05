@@ -84,6 +84,7 @@
 * [GDPR: gli strumenti tecnici per allinearsi](https://www.bitmat.it/blog/news/75088/gdpr-gli-strumenti-tecnici-allinearsi)
 * [iubenda](https://www.iubenda.com/it/)
 * [OneTrust](https://www.onetrust.com/)
++ [Outil PIA - Software del CNIL (Autorità di protezione dei dati francese) per una valutazione di impatto sulla protezione dei dati](https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil)
 * [Regolamento UE. Un software per la valutazione di impatto - DISPONIBILE L'AGGIORNAMENTO DEL SOFTWARE](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/8581268)
 
 
