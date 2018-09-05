@@ -34,6 +34,7 @@
 * [GDPR: la checklist delle 15 cose da controllare nella propria informativa](http://startupitalia.eu/91444-20180525-gdpr-la-checklist-delle-15-cose-controllare-nella-propria-informativa)
 * [Il registro dei trattamenti dell'avvocato](http://maurizioreale.it/il-registro-dei-trattamenti-dellavvocato) (PDF)
 * [The GDPR Compliance Checklist](https://gdprchecklist.io/)
+* [The Ultimate GDPR Quiz](https://ultimategdprquiz.com/)
 
 
 ### Esempi di informativa GDPR
