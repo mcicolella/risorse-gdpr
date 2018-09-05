@@ -6,7 +6,7 @@
 * [Checklist e Template](#checklist-e-template)
 * [Esempi di informativa GDPR](#esempi-di-informativa-gdpr)
 * [FAQ](#faq)
-* [Guide e Manuali](#guide-manuali)
+* [Guide e Manuali](#guide-e-manuali)
 * [Presentazioni](#presentazioni)
 * [Tips & Tricks](#tips-e-tricks)
 * [Tool](#tool)
@@ -62,6 +62,7 @@
 * [Guida GDPR a cura dello studio legale internazionale Bird&Bird (in inglese)](https://www.twobirds.com/~/media/pdfs/gdpr-pdfs/bird--bird--guide-to-the-general-data-protection-regulation.pdf?la=en) (PDF)
 * [Manuale sulla Sicurezza nel trattamento dei dati personali](https://www.amazon.it/clouddrive/share/ikQmbrXD7J6X2WlRXfqdXa3Cs10Mo2EqQlom5oWeUre/q8xlQ_y3Qe2rYrdZIAyGbw?_encoding=UTF8&*Version*=1&*entries*=0&mgh=1) (PDF download)
 * [Preparing for the General Data Protection Regulation (GDPR) 12 steps to take now ](https://ico.org.uk/media/for-organisations/documents/1624219/preparing-for-the-gdpr-12-steps.pdf) (PDF)
+* [Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/regulations-and-tools/guidelines/data-protection-by-design-and-by-default/)
 * [Your guide to GDPR](https://spectrum.ieee.org/telecom/internet/your-guide-to-the-gdpr.amp.html?__twitter_impression=true)
 
 
