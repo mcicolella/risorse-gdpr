@@ -24,6 +24,7 @@
 * [GDPR, differential privacy e probabilità](http://www.mathisintheair.org/wp/2018/10/gdpr-differential-privacy-e-probabilita/)
 * [I peggiori esempi di adeguamento alla GDPR da parte delle aziende](http://www.rivistastudio.com/cose-che-succedono/gdpr-esempi/)
 * [Il consenso raccolto prima della data di efficacia del GDPR sarà ancora valido?](http://europrivacy.info/it/2017/06/19/will-the-consent-collected-before-the-effective-date-of-gdpr-still-be-valid/)
+* [Il risk based audit per il GDPR](https://ronchilegal.eu/2018/11/07/risk-based-audit-gdpr/)
 * [Informativa sulla privacy dopo il Gdpr: cosa deve contenere?](https://www.laleggepertutti.it/209609_informativa-sulla-privacy-dopo-il-gdpr-cosa-deve-contenere)
 * [I servizi cloud alla prova del GDPR](https://www.ictsecuritymagazine.com/articoli/i-servizi-cloud-alla-prova-del-gdpr/)
 * [La febbre del GDPR](http://www.lodovicomabini.it/blog/37-la-febbre-del-gdpr)
