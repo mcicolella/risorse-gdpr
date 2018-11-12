@@ -28,6 +28,7 @@
 * [Informativa sulla privacy dopo il Gdpr: cosa deve contenere?](https://www.laleggepertutti.it/209609_informativa-sulla-privacy-dopo-il-gdpr-cosa-deve-contenere)
 * [I servizi cloud alla prova del GDPR](https://www.ictsecuritymagazine.com/articoli/i-servizi-cloud-alla-prova-del-gdpr/)
 * [La febbre del GDPR](http://www.lodovicomabini.it/blog/37-la-febbre-del-gdpr)
+* [La privacy nello studio medico dopo il regolamento europeo 679/2016](http://www.ordine-medici-firenze.it/index.php/faq-domande-frequenti/404-la-privacy-nello-studio-medico-dopo-il-regolamento-europeo-679-2016)
 * [La Verità sulla Conformità al GDPR](https://kinsta.com/it/blog/conformita-al-gdpr/)
 * [Riassunto rapido (FOR DUMMIES) della nuova normativa privacy GDPR che entra in vigore il 25 maggio 2018](https://www.preventivoecommerce.com/guide-ecommerce/116-riassunto-rapido-for-dummies-della-nuova-normativa-privacy-gdpr-che-entra-in-vigore-il-25-maggio-2018.html)
 
