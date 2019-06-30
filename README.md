@@ -16,6 +16,7 @@
 
 ### Articoli
 
+* [Adeguamento pratico al GDPR: best practice per mettersi in regola con gli adempimenti privacy](https://www.cybersecurity360.it/legal/privacy-dati-personali/adeguamento-pratico-al-gdpr-best-practice-per-mettersi-in-regola-con-gli-adempimenti-privacy/)
 * [Condominio e GDPR, anche gli amministratori devono adeguarsi](http://www.altalex.com/documents/news/2018/05/15/condominio-e-gdpr-anche-gli-amministratori-devono-adeguarsi)
 * [GDPR?: grazie, ma non mi serve!](https://www.opencloudict.it/gdpr-a-me-non-serve/)
 * [GDPR, e se la Blockchain non fosse conforme al regolamento?](https://www.key4biz.it/gdpr-e-se-la-blockchain-non-fosse-conforme-al-regolamento/222368/)
