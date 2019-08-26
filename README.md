@@ -19,6 +19,7 @@
 * [Adeguamento pratico al GDPR: best practice per mettersi in regola con gli adempimenti privacy](https://www.cybersecurity360.it/legal/privacy-dati-personali/adeguamento-pratico-al-gdpr-best-practice-per-mettersi-in-regola-con-gli-adempimenti-privacy/)
 * [Condominio e GDPR, anche gli amministratori devono adeguarsi](http://www.altalex.com/documents/news/2018/05/15/condominio-e-gdpr-anche-gli-amministratori-devono-adeguarsi)
 * [Data breach, come difendersi: i software per gestire al meglio una violazione di dati](https://www.cybersecurity360.it/legal/privacy-dati-personali/data-breach-come-difendersi-i-tool-sul-mercato/)
+* [GDPR e data retention (conservazione dati): policy e linee guida per farla bene](https://www.cybersecurity360.it/legal/privacy-dati-personali/gdpr-e-data-retention-conservazione-dati-policy-e-linee-guida-per-farla-bene/)
 * [GDPR?: grazie, ma non mi serve!](https://www.opencloudict.it/gdpr-a-me-non-serve/)
 * [GDPR, e se la Blockchain non fosse conforme al regolamento?](https://www.key4biz.it/gdpr-e-se-la-blockchain-non-fosse-conforme-al-regolamento/222368/)
 * [GDPR - Questo sconosciuto](https://italiancoders.it/gdpr-questo-sconosciuto/)
