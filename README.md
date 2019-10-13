@@ -97,6 +97,7 @@
 * [OneTrust](https://www.onetrust.com/)
 * [Outil PIA - Software del CNIL (Autorità di protezione dei dati francese) per una valutazione di impatto sulla protezione dei dati](https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil)
 * [Regolamento UE. Un software per la valutazione di impatto - DISPONIBILE L'AGGIORNAMENTO DEL SOFTWARE](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/8581268)
+* [Software per la gestione del GDPR in azienda: i consigli per una scelta compliant](https://www.cybersecurity360.it/soluzioni-aziendali/software-per-la-gestione-del-gdpr-in-azienda-i-consigli-per-una-scelta-compliant/)
 * [WordPress GDPR: un plugin per rendere conforme il tuo sito](https://blog.keliweb.it/2019/03/wordpress-gdpr-miglior-plugin/)
 
 
