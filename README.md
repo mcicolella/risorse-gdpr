@@ -72,6 +72,7 @@
 * [L’adeguamento della disciplina sulla protezione dei dati personali Regolamento (UE) 2016/679 ](http://documenti.camera.it/Leg18/Dossier/Pdf/gi0007.Pdf)
 * [Linee Guida in vista della piena applicazione prevista per il 25 Maggio 2018](https://www.slideshare.net/tarallop/gdpr-79114581) (Presentazione Slideshare)
 * [GDPR: cos'è e cosa fare in questa guida!](http://blog.tagliaerbe.com/2018/05/gdpr.html)
+* [GDPR Develioper Guide by CNIL](https://github.com/LINCnil/GDPR-Developer-Guide/tree/it) (Versione italiana)
 * [Guida GDPR a cura dello studio legale internazionale Bird&Bird (in inglese)](https://www.twobirds.com/~/media/pdfs/gdpr-pdfs/bird--bird--guide-to-the-general-data-protection-regulation.pdf?la=en) (PDF)
 * [Guida pratica al Gdpr per freelance e piccole aziende](https://www.wired.it/internet/regole/2018/04/12/gdpr-guida-pratica-freelance/)
 * [Manuale sulla Sicurezza nel trattamento dei dati personali](https://www.amazon.it/clouddrive/share/ikQmbrXD7J6X2WlRXfqdXa3Cs10Mo2EqQlom5oWeUre/q8xlQ_y3Qe2rYrdZIAyGbw?_encoding=UTF8&*Version*=1&*entries*=0&mgh=1) (PDF download)
