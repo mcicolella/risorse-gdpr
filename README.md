@@ -24,6 +24,7 @@
 * [GDPR?: grazie, ma non mi serve!](https://www.opencloudict.it/gdpr-a-me-non-serve/)
 * [GDPR, e se la Blockchain non fosse conforme al regolamento?](https://www.key4biz.it/gdpr-e-se-la-blockchain-non-fosse-conforme-al-regolamento/222368/)
 * [GDPR - Questo sconosciuto](https://italiancoders.it/gdpr-questo-sconosciuto/)
+* [GDPR e database: come assicurarsi di essere a norma](https://www.datamaze.it/blogs/post/gdpr-e-database-come-assicurarsi-di-essere-a-norma)
 * [GDPR e PMI. Scopri se riguarda anche te ](http://www.margas.it/gdpr-e-pmi-scopri-se-riguarda-anche-te/)
 * [GDPR, differential privacy e probabilità](http://www.mathisintheair.org/wp/2018/10/gdpr-differential-privacy-e-probabilita/)
 * [I peggiori esempi di adeguamento alla GDPR da parte delle aziende](http://www.rivistastudio.com/cose-che-succedono/gdpr-esempi/)
