@@ -38,6 +38,7 @@
 * [La sicurezza dei siti web in ambito sanitario, post GDPR: consigli e raccomandazioni](https://www.cybersecurity360.it/legal/privacy-dati-personali/la-sicurezza-dei-siti-web-in-ambito-sanitario-post-gdpr-consigli-e-raccomandazioni/)
 * [La Verità sulla Conformità al GDPR](https://kinsta.com/it/blog/conformita-al-gdpr/)
 * [Riassunto rapido (FOR DUMMIES) della nuova normativa privacy GDPR che entra in vigore il 25 maggio 2018](https://www.preventivoecommerce.com/guide-ecommerce/116-riassunto-rapido-for-dummies-della-nuova-normativa-privacy-gdpr-che-entra-in-vigore-il-25-maggio-2018.html)
+* [Trattamento dati e app: ruoli e responsabilità](https://www.linkedin.com/pulse/trattamento-dati-e-app-ruoli-responsabilit%C3%A0-luigi-marino/)
 
 
 ### Checklist e Template
