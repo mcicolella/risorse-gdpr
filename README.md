@@ -17,6 +17,7 @@
 ### Articoli
 
 * [Adeguamento pratico al GDPR: best practice per mettersi in regola con gli adempimenti privacy](https://www.cybersecurity360.it/legal/privacy-dati-personali/adeguamento-pratico-al-gdpr-best-practice-per-mettersi-in-regola-con-gli-adempimenti-privacy/)
+* [Come ottenere una cookie policy per sito web a norma](https://legalblink.it/post/cookie-policy-sito-web.html)
 * [Condominio e GDPR, anche gli amministratori devono adeguarsi](http://www.altalex.com/documents/news/2018/05/15/condominio-e-gdpr-anche-gli-amministratori-devono-adeguarsi)
 * [Consenso al trattamento dei dati e APP](https://www.linkedin.com/pulse/consenso-al-trattamento-dei-dati-e-app-luigi-marino/)
 * [COOKIES: quello che devi sapere per mettere in regola il tuo sito entro gennaio](https://privacygdpr.it/news-privacy-sanita/cookies-quello-che-devi-sapere-per-mettere-in-regola-il-tuo-sito-entro-gennaio/)
