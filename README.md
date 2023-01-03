@@ -76,6 +76,7 @@
 ### Guide e Manuali
 
 * [Come adeguare un sito web al GDPR](https://www.informaticapratica.it/come-adeguare-sito-web-al-gdpr/)
+* [Come rendere compliant un sito web ai sensi del GDPR](https://lucaterribili.it/come-rendere-compliant-un-sito-web-ai-sensi-del-gdpr)
 * [Garante della Privacy - Guida all'applicazione del Regolamento europeo in materia di protezione dei dati personali](http://www.garanteprivacy.it/web/guest/regolamentoue/guida-all-applicazione-del-regolamento-europeo-in-materia-di-protezione-dei-dati-personali)
 * [European Commission - Data protection](https://ec.europa.eu/info/law/law-topic/data-protection_en)
 * [L’adeguamento della disciplina sulla protezione dei dati personali Regolamento (UE) 2016/679 ](http://documenti.camera.it/Leg18/Dossier/Pdf/gi0007.Pdf)
