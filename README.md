@@ -105,6 +105,7 @@
 
 ### Tool
 
++ [Cookies JSR](https://github.com/jfeltkamp/cookiesjsr) - Gestione del consenso
 * [GDPR: gli strumenti tecnici per allinearsi](https://www.bitmat.it/blog/news/75088/gdpr-gli-strumenti-tecnici-allinearsi)
 * [iubenda](https://www.iubenda.com/it/)
 * [OneTrust](https://www.onetrust.com/)
